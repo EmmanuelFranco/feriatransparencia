@@ -1,4 +1,7 @@
 <x-layout> 
+
+    @include('header')
+
     <div class="container text-center">
         <p class="fs-2 mt-2 mb-4 title-desarrollo">Secretaría de Desarrollo Económico y Competitividad</p>
         <div class="container text-center">
