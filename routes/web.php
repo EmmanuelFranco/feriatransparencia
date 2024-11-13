@@ -7,3 +7,10 @@ Route::get('/', function () {
 });
 
 
+Route::get('/setic', function () {
+    return view('setic');
+});
+
+Route::get('/desarrollo', function () {
+    return view('desarrollo');
+});
